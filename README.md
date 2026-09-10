@@ -224,3 +224,6 @@ This repository serves as the official landing page for MCSkin3D. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MCSkin3D today!**
+
+---
+**Last updated:** 2026-09-10 08:40:36 UTC
